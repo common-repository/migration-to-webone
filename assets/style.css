@@ -1,0 +1,34 @@
+.webone-wrapper {
+    padding: 20px;
+    margin: 10px;
+    /*background-color: white;*/
+}
+
+.webone-header {
+    margin-bottom: 100px;
+}
+
+.webone-body {
+
+}
+
+.webone-section {
+    margin-bottom: 20px;
+}
+
+.webone-text-center {
+    text-align: center;
+}
+
+.webone-setting-text {
+    width: 100%;
+
+}
+
+.webone-apikey-input {
+    direction: ltr;
+    text-align: left;
+    width: 100%;
+    height: 50px;
+    margin: 10px 0 10px 0;
+}
